@@ -65,6 +65,10 @@ npm run dev
 3. **Make your changes** in the appropriate folder
 4. **Write tests** if applicable
 5. **Update documentation** as needed
+6. **Build** the application locally and test again
+    ```bash
+    cd frontend/ && npm run build && npm start
+    ```
 6. **Push to your fork**
    ```bash
    git push origin feature/your-feature
