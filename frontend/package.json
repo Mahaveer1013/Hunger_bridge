@@ -9,6 +9,7 @@
         "start": "next start"
     },
     "dependencies": {
+        "@heroicons/react": "^2.2.0",
         "axios": "^1.6.0",
         "next": "15.3.4",
         "next-i18next": "^14.0.0",

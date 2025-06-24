@@ -24,4 +24,4 @@ A simple, open-source platform to connect surplus food with NGOs and volunteers.
 5. Start frontend: `cd frontend && npm run dev`
 
 ## License
-MIT
+Apache-2.0
