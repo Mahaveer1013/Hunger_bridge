@@ -25,3 +25,6 @@ A simple, open-source platform to connect surplus food with NGOs and volunteers.
 
 ## License
 Apache-2.0
+
+## For Contributions
+Refer [Contribution Guidelines](https://github.com/Mahaveer1013/Hunger_bridge/blob/main/docs/Contribution.md)
